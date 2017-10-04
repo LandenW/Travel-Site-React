@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.jumbotron {
+  background-image: url('../images/travel_hero.jpg');
+  background-size: cover;
+  height: 450px;
+  background-attachment: fixed
+}
+
+.jumbotron div {
+  color: white;
+}
+
+.black {
+  background-color: black;
+}
+
+.bg-white {
+  background-color: white;
+  border: 5px black solid;
+}
